@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-3/03dccab32998b7f1f4d6aa70c3dc2129/transformed/jetified-react-android-0.72.1-debug/prefab/modules/jsi/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-3/03dccab32998b7f1f4d6aa70c3dc2129/transformed/jetified-react-android-0.72.1-debug/prefab/modules/jsi/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-3/03dccab32998b7f1f4d6aa70c3dc2129/transformed/jetified-react-android-0.72.1-debug/prefab/modules/react_nativemodule_core/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-3/03dccab32998b7f1f4d6aa70c3dc2129/transformed/jetified-react-android-0.72.1-debug/prefab/modules/react_nativemodule_core/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-3/03dccab32998b7f1f4d6aa70c3dc2129/transformed/jetified-react-android-0.72.1-debug/prefab/modules/react_render_core/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-3/03dccab32998b7f1f4d6aa70c3dc2129/transformed/jetified-react-android-0.72.1-debug/prefab/modules/react_render_core/include" type="native-header-root" />
+    </content>
+    <content url="file://$USER_HOME$/.gradle/caches/transforms-3/03dccab32998b7f1f4d6aa70c3dc2129/transformed/jetified-react-android-0.72.1-debug/prefab/modules/react_render_uimanager/include">
+      <sourceFolder url="file://$USER_HOME$/.gradle/caches/transforms-3/03dccab32998b7f1f4d6aa70c3dc2129/transformed/jetified-react-android-0.72.1-debug/prefab/modules/react_render_uimanager/include" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-gesture-handler/android/src/main" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-gesture-handler/android/src/main/jni" type="native-Source-root" />
+    </content>
+  </component>
+</module>

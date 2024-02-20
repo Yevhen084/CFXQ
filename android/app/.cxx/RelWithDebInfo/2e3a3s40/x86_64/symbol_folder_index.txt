@@ -1,0 +1,1 @@
+/Users/muhammadabdullah/Documents/KodexTech/cfx_quantum_new/android/app/build/intermediates/cxx/RelWithDebInfo/2e3a3s40/obj/x86_64

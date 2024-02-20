@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cfx_quantum.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cfx_quantum.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1186261485/cfx_quantum.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1186261485/cfx_quantum.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1219959804/cfx_quantum.react-native-mmkv.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1219959804/cfx_quantum.react-native-mmkv.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-866749425/cfx_quantum.react-native-reanimated.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-866749425/cfx_quantum.react-native-reanimated.main.iml" />
+    </modules>
+  </component>
+</project>
